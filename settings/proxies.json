@@ -1,0 +1,9 @@
+{
+  "bigbasket_scraping_manager": {
+    "conn_per_ip": 20,
+    "timeout": 10,
+    "pool": [
+      "http://127.0.0.1:8080"
+    ]
+  }
+}

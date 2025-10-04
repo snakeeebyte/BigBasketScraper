@@ -1,0 +1,13 @@
+.idea/
+.venv/
+.vscode/
+__pycache__/
+logs/*.log
+screenshots/*.png
+page_sources/*.html
+.python-version
+output/
+.csv
+profiles/
+managers/*.json
+test.py

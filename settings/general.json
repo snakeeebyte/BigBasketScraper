@@ -1,0 +1,13 @@
+{
+  "logger": {
+    "file_log": false
+  },
+  "demo_service": {
+    "logger": {
+      "file_log": true,
+      "rotate": true,
+      "rotate_max_byte_size": 200000000,
+      "rotate_backup_count": 3
+    }
+  }
+}
